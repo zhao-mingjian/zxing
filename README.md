@@ -18,4 +18,4 @@
 	        compile 'com.github.zhao-mingjian:zxing:v1.0.1'
 	}
 ## DEMO
-	https://github.com/zhao-mingjian/JitPack
+   https://github.com/zhao-mingjian/JitPack
